@@ -7,3 +7,6 @@
 [submodule "engineering-is-hard"]
 	path = engineering-is-hard
 	url = https://github.com/WillNilges/engineering-is-hard.git
+[submodule "HwSw-Crypto-Xilinx-Template"]
+	path = HwSw-Crypto-Xilinx-Template
+	url = https://github.com/atticusrussell/HwSw-Crypto-Xilinx-Template.git
