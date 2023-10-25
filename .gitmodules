@@ -1,12 +1,12 @@
 [submodule "KGCOEReport_template"]
-	path = KGCOEReport_template
+	path = repos/KGCOEReport_template
 	url = https://github.com/Tcenova/KGCOEReport_template.git
 [submodule "Digital-Electionics-and-Circuits"]
-	path = Digital-Electionics-and-Circuits
+	path = repos/Digital-Electionics-and-Circuits
 	url = https://github.com/HugGa/Digital-Electionics-and-Circuits.git
 [submodule "engineering-is-hard"]
-	path = engineering-is-hard
+	path = repos/engineering-is-hard
 	url = https://github.com/WillNilges/engineering-is-hard.git
 [submodule "HwSw-Crypto-Xilinx-Template"]
-	path = HwSw-Crypto-Xilinx-Template
+	path = repos/HwSw-Crypto-Xilinx-Template
 	url = https://github.com/atticusrussell/HwSw-Crypto-Xilinx-Template.git
