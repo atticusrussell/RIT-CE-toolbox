@@ -27,10 +27,10 @@ Keep this alive! Please contribute!
 - [Resistor Calculator - save it to ur phone](https://www.calculator.net/resistor-calculator.html)
 - [Fing network scanner - iPhone](https://apps.apple.com/au/app/fing-network-scanner/id430921107), [Andriod version](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en_US&gl=US&pli=1)
 - [easyEDA Designer - online all in one PCB design and order cheap](https://easyeda.com)
-- [Bluetooth serial app]()
-- [Fritzing Arduino Diagram Tool (not free)]()
-- [VScode - openSource does everything lighweight editor]()
-- [Platform IO - VScode extension for programming microcontrollers faster]()
+- [Bluetooth serial app - iPhone](https://apps.apple.com/us/app/bluetooth-for-arduino/id1505096526)
+- [Fritzing Arduino Diagram Tool (not free)](https://fritzing.org/download/)
+- [VScode - openSource does everything lighweight editor](https://code.visualstudio.com/download)
+- [Platform IO - VScode extension for programming microcontrollers faster](https://platformio.org/)
 
 # Hardware Tools
 - [Flipper Zero](https://flipperzero.one/), a gerneral purpose hardware tool capable of JTAG, frequency scanning, IR hacking, and much more!
