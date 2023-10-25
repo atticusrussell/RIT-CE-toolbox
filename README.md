@@ -5,7 +5,7 @@ Keep this alive! Please contribute!
 
 - [Project Directory](#project-directory)
 - [Coarse Schedule](#coarse-schedule)
-- [Webtools](#webtools)
+- [Webtools](#webtools--apps)
 - [Hardware tools](#hardware-tools)
 - [Com Channels](#com-channels)
 - [Common Questions](#common-questions)
