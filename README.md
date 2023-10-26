@@ -43,7 +43,7 @@ git submodule update --init --remote --recursive                # Pull all the s
 - [ESP32](https://www.amazon.com/s?k=esp32+devkit), [ESP32 Tutorials](https://randomnerdtutorials.com/getting-started-with-esp32/) - Cheap and awesome arduino/platformio compatible microcontroller, code faster, learn faster
 - A few LED's, suprisingly useful
 - [Multimeter](https://www.amazon.com/s?k=multimeter)
-- [Sottering Iron](https://www.amazon.com/s?k=soldering+iron)
+- [soldering iron](https://www.amazon.com/s?k=soldering+iron)
 - [Breadboard](https://www.amazon.com/s?k=breadboard)
 
 # Com Channels
