@@ -3,13 +3,8 @@ This is a collection of useful tools created by RIT Computer Engineering student
 
 Keep this alive! Please contribute!
 
-- [Project Directory](#project-directory)
-- [Course Schedule](#course-schedule)
-- [Webtools](#webtools--apps)
-- [Hardware tools](#hardware-tools)
-- [Com Channels](#com-channels)
-- [Common Questions](#common-questions)
-- [TODOs](#todos)
+## Table of contents
+- [Project Directories](#project-directories)
 
 # Project Directories
 | Name                           | Purpose                                       | 
