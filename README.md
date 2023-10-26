@@ -27,19 +27,26 @@ git submodule update --init --remote --recursive                # Pull all the s
 # Course Schedule
 <img src="img/BS_2020_Flowchart.png">
 
-# Webtools & apps
+# Our Favorite Tools
+## RIT Specific
 - [RIT Schedule maker](https://schedulemaker.csh.rit.edu/generate)
-- [Resistor Calculator - you can save it to ur phone](https://www.calculator.net/resistor-calculator.html)
-- [Fing network scanner - iPhone](https://apps.apple.com/au/app/fing-network-scanner/id430921107), [Andriod version](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en_US&gl=US&pli=1)
-- [easyEDA Designer - online all in one PCB design and order cheap](https://easyeda.com)
-- [Bluetooth serial app - iPhone](https://apps.apple.com/us/app/bluetooth-for-arduino/id1505096526)
-- [Fritzing Arduino Diagram Tool (not free)](https://fritzing.org/download/)
-- [VScode - openSource, does everythin', lighweight editor](https://code.visualstudio.com/download)
-- [Platform IO - VScode extension for programming microcontrollers faster](https://platformio.org/)
+  
+## Desktop Tools
+- [VSCode](https://code.visualstudio.com/download) -  open-source, cross-platform, editor, massive selection of extensions and themes 
+- [PlatformIO](https://platformio.org/) - VSCode extension for programming microcontrollers faster. Includes libraries and a build system.  (CEs ❤️ <img src="https://github.com/BarakBinyamin/RIT-CE-toolbox/assets/60147768/15385a35-3bf9-4561-a204-b651d776f4a1" width="15" height="15">)
+- [Fritzing Arduino Diagram Tool ](https://fritzing.org/download/) (not free)
+- [OpenOCD](https://openocd.org/) - helpful for loading bitstreams and debugging over JTAG or other protocols
+
+## Mobile Apps
+- Fing network scanner [iOS](https://apps.apple.com/au/app/fing-network-scanner/id430921107) [Android](https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en_US&gl=US&pli=1)
+- Bluetooth serial app [iOS](https://apps.apple.com/us/app/bluetooth-for-arduino/id1505096526)
+
+## Web Tools
+- [Resistor Calculator](https://www.calculator.net/resistor-calculator.html) - save this to your phone
+- [easyEDA Designer](https://easyeda.com) - online affordable all-in-one PCB design and order service
 
 # Hardware Tools
 - [Flipper Zero](https://flipperzero.one/), a general purpose hardware tool capable of JTAG, frequency scanning, IR hacking, and much more!
-- [OpenOCD](https://openocd.org/), ok ok its sofware, but it's really helpful for loading bitstreams and debugging stuff over JTAG or other protocals
 - [ESP32](https://www.amazon.com/s?k=esp32+devkit), [ESP32 Tutorials](https://randomnerdtutorials.com/getting-started-with-esp32/) - Cheap and awesome arduino/platformio compatible microcontroller, code faster, learn faster
 - A few LED's, suprisingly useful
 - [Multimeter](https://www.amazon.com/s?k=multimeter)
