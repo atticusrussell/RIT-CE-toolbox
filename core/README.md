@@ -1,2 +1,2 @@
 # Core             
-Resources for core cirriculum             
+Resources for core curriculum             
