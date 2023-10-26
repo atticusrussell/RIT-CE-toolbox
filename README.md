@@ -5,6 +5,8 @@ Keep this alive! Please contribute!
 
 ## Table of contents
 - [Project Directories](#project-directories)
+- [Course Schedule](#course-schedule)
+
 
 # Project Directories
 | Name                           | Purpose                                       | 
@@ -13,8 +15,12 @@ Keep this alive! Please contribute!
 |[electives](/electives)         | Resources for Electives                       |
 |[co-op](/co-op)                 | Resources for co-ops & jobs                   |
 |[repos](/repos )                | Personal CE Repos as submodules               |
+|[img](/img)                     | Images for this repo                          |
 
 ```bash
 git clone https://github.com/atticusrussell/RIT-CE-toolbox.git  # Download this repo locally
 git submodule update --init --remote --recursive                # Pull all the submodules too
 ```
+
+# Course Schedule
+<img src="img/BS_2020_Flowchart.png">
