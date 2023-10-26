@@ -6,9 +6,9 @@ Keep this alive! Please contribute!
 ## Table of contents
 - [Project Directories](#project-directories)
 - [Course Schedule](#course-schedule)
-- [Webtools](#webtools--apps)
+- [Software Tools](#software-tools)
 - [Hardware tools](#hardware-tools)
-- [Com Channels](#com-channels)
+- [CE Comms Channels](#ce-comms-channels)
 
 # Project Directories
 | Name                           | Purpose                                       | 
@@ -27,7 +27,7 @@ git submodule update --init --remote --recursive                # Pull all the s
 # Course Schedule
 <img src="img/BS_2020_Flowchart.png">
 
-# Our Favorite Tools
+# Software Tools
 ## RIT Specific
 - [RIT Schedule maker](https://schedulemaker.csh.rit.edu/generate)
   
@@ -53,6 +53,6 @@ git submodule update --init --remote --recursive                # Pull all the s
 - [soldering iron](https://www.amazon.com/s?k=soldering+iron)
 - [Breadboard](https://www.amazon.com/s?k=breadboard)
 
-# Com Channels
+# CE Comms Channels
 - [CE Discord](https://discord.gg/yVkhG4f2)
 - [RIT makerspace](https://rit-makerspace.slack.com) - The new & cool department in the SHED, 3d print, laser cut, and get personal/class project supplies & advice cheap!
