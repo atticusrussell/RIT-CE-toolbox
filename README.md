@@ -19,6 +19,11 @@ Keep this alive! Please contribute!
 |[co-op](/co-op)                 | Resources for co-ops & jobs                   |
 |[repos](/repos )                | Personal CE Repos as submodules               |
 
+```bash
+git clone https://github.com/atticusrussell/RIT-CE-toolbox.git  # Download this repo locally
+git submodule update --init --remote --recursive                # Pull all the submodules too
+```
+
 # Coarse Schedule
 <img src="BS_2020_Flowchart.png">
 
