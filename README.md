@@ -23,4 +23,4 @@ git submodule update --init --remote --recursive                # Pull all the s
 ```
 
 # Course Schedule
-<img src="BS_2020_Flowchart.png">
+<img src="img/BS_2020_Flowchart.png">
