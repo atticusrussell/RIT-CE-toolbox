@@ -4,17 +4,17 @@ This is a collection of useful tools created by RIT Computer Engineering student
 Keep this alive! Please contribute!
 
 - [Project Directory](#project-directory)
-- [Coarse Schedule](#coarse-schedule)
+- [Course Schedule](#course-schedule)
 - [Webtools](#webtools--apps)
 - [Hardware tools](#hardware-tools)
 - [Com Channels](#com-channels)
 - [Common Questions](#common-questions)
-- [TODO's](#todos)
+- [TODOs](#todos)
 
-# Project Directory
+# Project Directories
 | Name                           | Purpose                                       | 
 | :--                            | :--                                           |
-|[core](/core)                   | Resources for core cirriculum                 |
+|[core](/core)                   | Resources for core curriculum                 |
 |[electives](/electives)         | Resources for Electives                       |
 |[co-op](/co-op)                 | Resources for co-ops & jobs                   |
 |[repos](/repos )                | Personal CE Repos as submodules               |
