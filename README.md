@@ -20,8 +20,8 @@ Keep this alive! Please contribute!
 |[img](/img)                     | Images for this repo                          |
 
 ```bash
-git clone https://github.com/atticusrussell/RIT-CE-toolbox.git  # Download this repo locally
-git submodule update --init --remote --recursive                # Pull all the submodules too
+git clone https://github.com/atticusrussell/RIT-CE-toolbox.git      # Download this repo locally
+cd RIT-CE-toolbox; git submodule update --init --remote --recursive # Pull all the submodules too
 ```
 
 ## Course Schedule
